@@ -44,4 +44,7 @@
 
 Удалось добиться 100-процентной точности предсказания на тестовой выборке. Данный результат дали модели _DecisionTreeClassifier_, _RandomForestClassifier_, _XGBClassifier_ и _LGBMClassifier_.
 
+## 6. Замечания
 
+В ноутбуке для загрузки данных напрямую с Kaggle используется API. Как установить и пользоваться показано [тут](https://github.com/Kaggle/kaggle-api). 
+Датасет можно посмотреть по этой [ссылке](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset). 
