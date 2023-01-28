@@ -1,11 +1,11 @@
-![dataset-cover](https://user-images.githubusercontent.com/103372805/215278983-affa7d82-b1a9-4a80-9a63-3a4103b61880.jpg)
+![image](https://user-images.githubusercontent.com/103372805/215283245-0663426f-c383-4846-91a7-1b1b43f4fc0f.png)
 
 # Customer Personality Analysis
 
 ![tmp2943g1tv](https://user-images.githubusercontent.com/103372805/202800560-5b020e5d-5e22-4ea9-a05e-e40ca3fc2aa0.svg)
 
 ## 1. Описание
-В качестве исходных данных был предоставлен датасет, в котором содержалась информация о клиентах некоторой торговой сети. Данные взяты с сайта [Kaggle](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
+В качестве исходных данных был предоставлен датасет, в котором содержалась информация о клиентах некоторой торговой сети. Данные взяты с сайта [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
 ## 2. Что нужно сделать
 В данной работе нам необходимо произвести кластеризацию, интерпретировать полученные результаты и понять, для какой группы клиентов необходимо в следующий раз
@@ -63,4 +63,4 @@
 ## 6. Замечания
 
 В ноутбуке для загрузки данных напрямую с Kaggle используется API. Как установить и пользоваться показано [тут](https://github.com/Kaggle/kaggle-api). 
-Датасет можно посмотреть по этой [ссылке](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign). 
+Датасет можно посмотреть по этой [ссылке](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). 
